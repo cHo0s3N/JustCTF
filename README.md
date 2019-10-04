@@ -46,7 +46,8 @@
 # Forensics: f4c3book (73 points) >
 ## Description: 
 ## find the flag in this page (https://www.facebook.com/HackerSpace_JUST-107702673912712)
-
+## we are given a facebook link page! and it seems that the flag is hidden inside an image in this page! actually i was lucky! by installing the cover photo as option #1 (: which the flag was hidden inside of it! 
+## let's try stegsolve! 
 
 
 
