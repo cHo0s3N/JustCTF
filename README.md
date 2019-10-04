@@ -82,8 +82,9 @@
 ![Screenshot from 2019-10-04 18-45-05](https://user-images.githubusercontent.com/52065067/66244656-27858480-e712-11e9-8a60-baa01146b6b3.png)
 ## nothing here! let's try with password!
 ![Screenshot from 2019-10-04 18-45-46](https://user-images.githubusercontent.com/52065067/66244675-4a179d80-e712-11e9-8575-8dc689075e5f.png)
-## nice! we got here the name and it's a fl4g!!!.... the email is a base64 data! so let's decrypt it!!! 
-
+## nice! we got here the name and it's "fl4g"!!!.... the email is base64 data just replace url symbol %3D to "="! so let's decrypt it!!! 
+![Screenshot from 2019-10-04 18-58-58](https://user-images.githubusercontent.com/52065067/66245014-d1194580-e713-11e9-928a-81401ec13644.png)
+###### Flag : JUST{Th1s_$hould_b3_e4$y}
 
 
 
