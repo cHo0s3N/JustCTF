@@ -55,7 +55,9 @@
 ## Description:
 ## Can you fix the interruptions ??
 ## Solution:
-## we have a flag.jpg (: 
+## we have a flag.jpg let's open it (: 
+![flag](https://user-images.githubusercontent.com/52065067/66241146-13885580-e707-11e9-9d64-234d029ba90a.jpg)
+## it's a really interruptions! if we try stegsolve on this we'll got nothing! let's try strings firstly!
 
 
 
