@@ -1,5 +1,6 @@
 # JustCTF_Writeups    
 ## Categorized:
-## Misc:
-###### 1-Strings
+## Misc: Strings 25 points >
+## Description: Can you read content of this file ?
+###### we are given a png image!! 
 
