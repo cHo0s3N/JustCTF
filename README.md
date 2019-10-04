@@ -60,7 +60,9 @@
 ## it's a really interruptions! if we try stegsolve on this we'll got nothing!
 ![Screenshot from 2019-10-04 17-43-14](https://user-images.githubusercontent.com/52065067/66242032-49c6d480-e709-11e9-86ae-64cbae9a0876.png)
 ## at the end of strings output; i got an interesting ascii art!! actually i took my time to finally fiqure what to do! 
-
+![Screenshot from 2019-10-04 17-52-28](https://user-images.githubusercontent.com/52065067/66242571-847d3c80-e70a-11e9-97f9-ed01028b849b.png)
+## just zooooooooooming out ))))):
+###### Flag : JUST{Th1s_C4ll3d_Toil3t}
 
 
 
