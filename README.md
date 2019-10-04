@@ -39,7 +39,8 @@
 ## CDFV2 (Composite Document File V2) Encrypted!! since it's a word office document we can use john to decrypt it!
 ![Screenshot from 2019-10-04 16-27-02](https://user-images.githubusercontent.com/52065067/66237903-e89a0380-e6fe-11e9-99e8-4cccd0c10af5.png)
 ## nice! we got the hash value! let's crack it!!!!!!!!
-
+![Screenshot from 2019-10-04 16-32-39](https://user-images.githubusercontent.com/52065067/66238067-60682e00-e6ff-11e9-853f-49792f9f0fa4.png)
+## oops! the password was password!!!! tricky one? 
 
 
 
