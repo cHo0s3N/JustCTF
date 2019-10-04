@@ -57,7 +57,10 @@
 ## Solution:
 ## we have a flag.jpg let's open it (: 
 ![flag](https://user-images.githubusercontent.com/52065067/66241146-13885580-e707-11e9-9d64-234d029ba90a.jpg)
-## it's a really interruptions! if we try stegsolve on this we'll got nothing! let's try strings firstly!
+## it's a really interruptions! if we try stegsolve on this we'll got nothing!
+![Screenshot from 2019-10-04 17-43-14](https://user-images.githubusercontent.com/52065067/66242032-49c6d480-e709-11e9-86ae-64cbae9a0876.png)
+## at the end of strings output; i got an interesting ascii art!! actually i took my time to finally fiqure what to do! 
+
 
 
 
