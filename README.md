@@ -75,7 +75,10 @@
 ![Screenshot from 2019-10-04 18-12-52](https://user-images.githubusercontent.com/52065067/66243678-1b97c380-e70e-11e9-9239-85bd05bc92f5.png)
 ## strings here give us nothing important! so let's try binwalk to seek any hidden files!
 ![Screenshot from 2019-10-04 18-13-34](https://user-images.githubusercontent.com/52065067/66243752-6ca7b780-e70e-11e9-9c73-914c5239a80f.png)
-## great!!! we have a zip file here! let's cd to our extracted directory!
+## great!!! we have a zip file and it's uncompressed as "post" here! let's cd to our extracted directory!
+![Screenshot from 2019-10-04 18-15-00](https://user-images.githubusercontent.com/52065067/66244160-d6749100-e70f-11e9-9cd9-69a89f9543f5.png)
+## great! it's a data file! let's see what's inside it!
+## strings will give us too much random data lines!! so here we need our note that i mentioned it up there! that we are looking for a username and a password for regestration! so i filtered up my result!!! 
 
 
 
