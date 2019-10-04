@@ -33,8 +33,9 @@
 ## i can't open this docx file can you help me with that :)
 ## solution:
 ## so we have a docx file,, double tab and we got this!
-
-and it seems it's protected with a password! let's help him open this up!
+![Screenshot from 2019-10-04 16-06-09](https://user-images.githubusercontent.com/52065067/66236712-e4201b80-e6fb-11e9-8c73-971a4c021aa0.png)
+## ohh it's protected with a password! let's help him open this up!
+##
 
 
 
