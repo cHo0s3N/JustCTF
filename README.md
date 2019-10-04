@@ -68,7 +68,10 @@
 ## I was typing then everythig gone!! Can you find my register Information plz ;(
 ## Solution:
 ## we have an image "post.jpg"!
-
+![post](https://user-images.githubusercontent.com/52065067/66243097-f6a25100-e70b-11e9-9c9e-7e3b314b710e.jpg)
+## interesting!!! the image said " i want this mockup so bad!! " and we are given a link!! 
+## if you go and open this link trying to find something; it will be a waste of time! but actually i did it (:
+## so now let's dive into!! the description said "Can you find my register Information plz"!!! so we are looking here for a username and a password (: or at least it must be like this! let's goooo!
 
 
 
