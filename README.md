@@ -16,6 +16,11 @@
 ## if you count the number of lines in flags.txt it will be 1468 sooooo!
 ![Screenshot from 2019-10-04 15-30-23](https://user-images.githubusercontent.com/52065067/66234677-f6e42180-e6f6-11e9-992d-3914f015d03c.png)
 ###### Flag : JUST{BAD_R3GEX}
+# Misc: Catch me (52 pionts) >
+## Description:
+## catch me if you can ?
+## Solution:
+## we have here a zip file! If you unzip this we will got many hidden files!
 
 
 
