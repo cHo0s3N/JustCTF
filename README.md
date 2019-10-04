@@ -35,7 +35,9 @@
 ## so we have a docx file,, double tab and we got this!
 ![Screenshot from 2019-10-04 16-06-09](https://user-images.githubusercontent.com/52065067/66236712-e4201b80-e6fb-11e9-8c73-971a4c021aa0.png)
 ## ohh it's protected with a password! let's help him open this up!
-##
+![Screenshot from 2019-10-04 16-14-56](https://user-images.githubusercontent.com/52065067/66237112-f2bb0280-e6fc-11e9-8f74-f386cb77bc37.png)
+## CDFV2 (Composite Document File V2) Document Encrypted!! since it's a word office document we can use john to decrypt it!
+
 
 
 
