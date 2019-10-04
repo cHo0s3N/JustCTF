@@ -1,3 +1,5 @@
 # JustCTF_Writeups    
-###### MISC
+-----------------------------------------
+## Categorized:
+## Misc:
 
