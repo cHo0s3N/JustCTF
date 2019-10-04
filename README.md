@@ -9,6 +9,11 @@
 ![Screenshot from 2019-10-04 15-12-33](https://user-images.githubusercontent.com/52065067/66233711-aa97e200-e6f4-11e9-8f94-5b2229463fbe.png)
 ###### Flag : JUST{y3s_y0u_c4n}
 # Misc: RegEX (40 pionts) >
-## Description:
+## Description: 
+## flag is one of this!! Can you find the only upper case flag??
+## Solution:
+## we are given a flags.txt and we need to find the only upper case flag!!!
+## some magick here!
+
 
 
