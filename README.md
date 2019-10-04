@@ -79,6 +79,8 @@
 ![Screenshot from 2019-10-04 18-15-00](https://user-images.githubusercontent.com/52065067/66244160-d6749100-e70f-11e9-9cd9-69a89f9543f5.png)
 ## great! it's a data file! let's see what's inside it!
 ## strings will give us too much random data lines!! so here we need our note that i mentioned it up there! that we are looking for a username and a password for regestration! so i filtered up my result!!! 
+![Screenshot from 2019-10-04 18-45-05](https://user-images.githubusercontent.com/52065067/66244656-27858480-e712-11e9-8a60-baa01146b6b3.png)
+## nothing here! let's try with password!
 
 
 
