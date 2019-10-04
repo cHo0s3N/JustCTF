@@ -8,7 +8,7 @@
 ## as we notice from the title "Strings" so >
 ![Screenshot from 2019-10-04 15-12-33](https://user-images.githubusercontent.com/52065067/66233711-aa97e200-e6f4-11e9-8f94-5b2229463fbe.png)
 ###### Flag : JUST{y3s_y0u_c4n}
-# Misc: RegEX (40 pionts) >
+# Misc: RegEX (40 points) >
 ## Description: 
 ## flag is one of this!! Can you find the only upper case flag??
 ## Solution:
@@ -16,7 +16,7 @@
 ## if you count the number of lines in flags.txt it will be 1468 sooooo!
 ![Screenshot from 2019-10-04 15-30-23](https://user-images.githubusercontent.com/52065067/66234677-f6e42180-e6f6-11e9-992d-3914f015d03c.png)
 ###### Flag : JUST{BAD_R3GEX}
-# Misc: Catch me (52 pionts) >
+# Misc: Catch me (52 points) >
 ## Description:
 ## catch me if you can ?
 ## Solution:
@@ -28,6 +28,14 @@
 ![Screenshot from 2019-10-04 15-46-02](https://user-images.githubusercontent.com/52065067/66235958-fd27cd00-e6f9-11e9-8251-757bdcbcf955.png)
 ## and yeah we got the flag! easy!
 ###### Flag : JUST{Y0u_c0ught_m3}
+# Misc: .docx (64 points) >
+## Description:
+## i can't open this docx file can you help me with that :)
+## solution:
+## so we have a docx file,, double tab and we got this!
+
+and it seems it's protected with a password! let's help him open this up!
+
 
 
 
