@@ -25,6 +25,9 @@
 ## useless!!! let's try something else.. since we got hidden files we can try binwalk on the zip file!! 
 ![Screenshot from 2019-10-04 15-45-43](https://user-images.githubusercontent.com/52065067/66235857-bc2fb880-e6f9-11e9-8407-8d4561cb6c82.png)
 ## let's move to the directory and see what we got!
+![Screenshot from 2019-10-04 15-46-02](https://user-images.githubusercontent.com/52065067/66235958-fd27cd00-e6f9-11e9-8251-757bdcbcf955.png)
+## and yeah we got the flag! easy!
+###### Flag : JUST{Y0u_c0ught_m3}
 
 
 
