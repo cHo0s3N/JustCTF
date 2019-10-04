@@ -21,6 +21,9 @@
 ## catch me if you can ?
 ## Solution:
 ## we have here a zip file! If you unzip this we will got many hidden files!
+![Screenshot from 2019-10-04 15-43-37](https://user-images.githubusercontent.com/52065067/66235648-3f9cda00-e6f9-11e9-89b7-f25e0ca92b46.png)
+## useless!!! let's try something else.. since we got hidden files we can try binwalk on the zip file!! 
+
 
 
 
