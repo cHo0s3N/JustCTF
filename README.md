@@ -41,7 +41,7 @@
 ## nice! we got the hash value! let's crack it!!!!!!!!
 ![Screenshot from 2019-10-04 16-32-39](https://user-images.githubusercontent.com/52065067/66238067-60682e00-e6ff-11e9-853f-49792f9f0fa4.png)
 ## oops! the password was password!!!! tricky one? 
-![Screenshot from 2019-10-04 16-32-39](https://user-images.githubusercontent.com/52065067/66238311-fa2fdb00-e6ff-11e9-9c41-7687607f0588.png)
+![Screenshot from 2019-10-04 16-37-01](https://user-images.githubusercontent.com/52065067/66238526-79251380-e700-11e9-86b5-4827a3133e04.png)
 ###### Flag : JUST{m1cr0$oft_w0rd}
 
 
