@@ -13,7 +13,10 @@
 ## flag is one of this!! Can you find the only upper case flag??
 ## Solution:
 ## we are given a flags.txt and we need to find the only upper case flag!!!
-## some magick here!
+## if you count the number of lines in flags.txt it will be 1468 sooooo!
+![Screenshot from 2019-10-04 15-30-23](https://user-images.githubusercontent.com/52065067/66234677-f6e42180-e6f6-11e9-992d-3914f015d03c.png)
+###### Flag : JUST{BAD_R3GEX}
+
 
 
 
