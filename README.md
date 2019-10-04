@@ -72,6 +72,8 @@
 ## interesting!!! the image said " i want this mockup so bad!! " and we are given a link!! 
 ## if you go and open this link trying to find something; it will be a waste of time! but actually i did it (:
 ## so now let's dive into!! the description said "Can you find my register Information plz"!!! so we are looking here for a username and a password (: or at least it must be like this! let's goooo!
+![Screenshot from 2019-10-04 18-12-52](https://user-images.githubusercontent.com/52065067/66243678-1b97c380-e70e-11e9-9239-85bd05bc92f5.png)
+## strings here give us nothing important! so let's try binwalk to seek any hidden files!
 
 
 
