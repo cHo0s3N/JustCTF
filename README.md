@@ -91,6 +91,9 @@
 ## solution:
 ## it's a jpg image! and the description here tell us what to do! we have to find the passphrase to get the flag!  
 ## soo! let's see if there is anything interesting inside that jpg!
+![Screenshot from 2019-10-07 07-10-19](https://user-images.githubusercontent.com/52065067/66307244-9cbca980-e90c-11e9-837d-3eecff03c9cb.png)
+## oops! scrolling down in strings output gave me a list of words! so simply you can store these words in a txt file and just use it as your wordlist to get the passphrase!!!
+
 
 
 
