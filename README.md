@@ -96,7 +96,11 @@
 ![Screenshot from 2019-10-07 07-22-35](https://user-images.githubusercontent.com/52065067/66307850-359ff480-e90e-11e9-9b76-ff8046ed1804.png)
 ## that was realyy faaast!! 
 ###### Flag : JUST{n1c3_w0rk}
-
-
+# Forensics: Boring school (100 points) >
+## Description:
+## There is missing student can you find him in Modern School Bus
+## solution:
+## the hardest and the easiest problem i solved in this competition.. ONE SOLVE!!! ; and i still wondering why! (((: 
+## we are given a png image! 
 
 
