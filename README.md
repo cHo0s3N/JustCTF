@@ -146,3 +146,7 @@
 ## we have two images!! if we open the first one "Big.png" we'll see sequence of weird symbols! 
 ![Big](https://user-images.githubusercontent.com/52065067/66325565-23cf4900-e930-11e9-8c07-5ea6a0d59c61.PNG)
 ## okaaay! what about the second image! 
+![London](https://user-images.githubusercontent.com/52065067/66325896-b4a62480-e930-11e9-9705-52bd7955e950.jpg)
+## Big Ben clock!!! since we have to decode that symbol given in Big image! so what the second image have to give us ?! it's just an image and does not have any important data! so after depth searching about these symbols and yeah it took time actually ): i figured out what it is!! it all about your searching skills! 
+## so our cipher is "Pigpen cipher" ! what????????? the second image was our hint! big ben clock ): (https://www.dcode.fr/pigpen-cipher) decode your symbols and you are all set! 
+###### Flag : JUST{PIGPENCIPHER}
