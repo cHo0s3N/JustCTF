@@ -150,3 +150,8 @@
 ## Big Ben clock!!! since we have to decode that symbol given in Big image! so what the second image have to give us ?! it's just an image and does not have any important data! so after depth searching about these symbols ): i figured out what it is!! it all about your searching skills! 
 ## so our cipher is "Pigpen cipher" ! but what????????? the second image was our hint! big ben clock! my heart has broken here ))))): (https://www.dcode.fr/pigpen-cipher) decode your symbols and you are all set! 
 ###### Flag : JUST{PIGPENCIPHER}
+# Crypto: Old letter (100 points) >
+# Description: 
+## I met foreign old man who gives me this old letter Can you read it ?
+## Solution:
+## we have an old letter here! contains old symbols! we have to search and search!! your key may be "old alphabet symbols" and that will give you such a huge amount of pics! 
