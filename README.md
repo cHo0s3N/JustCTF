@@ -125,5 +125,9 @@
 ## Solution:
 ## Keypad numbers! we have to decode this into words! i used this decoder: (http://www.aer.org/) deleting the redunduncy numbers and choosing the most sentence that make sense give us > "old is gold"
 ###### Flag : JUST{oldisgold}
-
+# Crypto: Retired code (40 points) >
+# Description: 
+## Can you see what this code hide ??
+## Solution:
+## we are given two files! the first one is "code.txt" which include some binary code! the other file "hint.jfif"! i opened it to see what is says!
 
