@@ -85,6 +85,12 @@
 ## we got here the name and it's "fl4g"!!!.... the email is base64 data just replace the url symbol %3D to "="! and decrypt it!!! 
 ![Screenshot from 2019-10-04 18-58-58](https://user-images.githubusercontent.com/52065067/66245014-d1194580-e713-11e9-928a-81401ec13644.png)
 ###### Flag : JUST{Th1s_$hould_b3_e4$y}
+# Forensics: To Do List (94 points) >
+## Description:
+## find the passphrase to extract the flag
+## solution:
+## it's a jpg image! and the description here tell us what to do! we have to find the passphrase to get the flag!  
+## soo! let's see if there is anything interesting inside that jpg!
 
 
 
