@@ -108,3 +108,13 @@
 ###### Flag : JUST{school_is_fun}
 
 
+# Forensics: Empty (100 points) >
+## working on it###
+
+
+# Crypto: The good rot (25 points) >
+# Description: 
+## WHFG{gur_nafjre_gb_yvsr_gur_havirefr_naq_rirelguvat_vf_ebg13}
+## solution:
+## we are given a cipher text and it seems some rotation applied here! as we notice there is #13 at the end! and #rot word up in the problem name! so let's give it a try with rot13!
+
