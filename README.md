@@ -100,8 +100,9 @@
 ## Description:
 ## There is missing student can you find him in Modern School Bus
 ## solution:
-## the hardest and the easiest problem i solved in this competition.. it got ONE SOLVE!!! ; and i still wondering why! (((: 
-## we are given a png image! what to do with a png?! a lot of things! firstly i tried stegonagraphy tools! and i got nothing! no interesting data in strings ! and there is no any hidden files using binwalk! i checked the chunks and there size! and everything just work fine!!!! so i ended with a close road!!
+## we are given a png image! firstly i tried stegonagraphy tools! and i got nothing! no interesting data in strings! also in the other tools which i tried! there is no any hidden files using binwalk! i checked the chunks and there size! and everything just work fine!!!! so i ended with a close road!!
 ![Screenshot from 2019-10-07 08-22-50](https://user-images.githubusercontent.com/52065067/66311201-9c291080-e916-11e9-9066-36fcaff17739.png)
+## but who says your english skills won't benefit you! (: why would be an upper case in such ordinary word in a middle of a senetence!!!! so the missing boy i figured out that he is our flag and we have to find him in : (M)odern (S)chool (B)us ! yeah that's right in the MSB! so i opend my stegsolve trying to extract the flag from the MSB!
+
 
 
