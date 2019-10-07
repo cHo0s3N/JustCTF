@@ -111,7 +111,8 @@
 ## I received empty image from my friend! Can you find the flag in blank ?
 ## solution:
 ## Empty.png! let's see if it is really empty or not! 
- 
+![Screenshot from 2019-10-07 16-45-21](https://user-images.githubusercontent.com/52065067/66347330-c0a7db80-e95c-11e9-9c66-56cc21faad09.png)
+## image with binary code inside of it!! first thing we have to do is to extract that binary! image to txt and you will got it! so what to do with it?? i really have no answer for that for a bit of time! but i got lucky! after i extract that binary! i convert it to image but it was a realyy dumb converter! (((: cause i got an image with my binary inside of it!! so it was useless!! but let me tell you why i was lucky with this dumb converter! i was just previewing my images and i saw my lovely dumb image again! 
  
  
  
