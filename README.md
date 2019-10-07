@@ -102,7 +102,7 @@
 ## solution:
 ## we are given a png image! firstly i tried stegonagraphy tools! and i got nothing! no interesting data in strings! also in the other tools which i tried! there is no any hidden files using binwalk! i checked the chunks and there size! and everything just work fine!!!! so i ended with a close road!!
 ![Screenshot from 2019-10-07 08-22-50](https://user-images.githubusercontent.com/52065067/66311201-9c291080-e916-11e9-9066-36fcaff17739.png)
-## but who says your english skills won't benefit you! (: why would be an upper case in such ordinary word in a middle of a senetence!!!! so the missing boy i figured out that he is our flag and we have to find him in : (M)odern (S)chool (B)us ! yeah that's right in the MSB! so i opend my stegsolve trying to extract the flag from the MSB!
+## but who says your english skills won't benefit you! (: why would be an upper case in such ordinary word in a middle of a senetence!!!! so the missing boy i figured out that he is our flag and we have to find him in : (M)odern (S)chool (B)us ! yeah that's right in the MSB! so i opend my stegsolve trying to extract the flag!
 ![Screenshot from 2019-10-07 08-56-43](https://user-images.githubusercontent.com/52065067/66313558-3c813400-e91b-11e9-83b0-853078cec81a.png)
 ## and that's our bad boy!
 ###### Flag : JUST{school_is_fun}
