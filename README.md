@@ -130,4 +130,7 @@
 ## Can you see what this code hide ??
 ## Solution:
 ## we are given two files! the first one is "code.txt" which include some binary code! the other file "hint.jfif"! i opened it to see what is says!
+![hint](https://user-images.githubusercontent.com/52065067/66321104-c08de880-e928-11e9-98ac-ae525c0d8bdc.jpg)
+## great! we have a sign here to lead us to which decoder we have to use! if you already have no idea what is this! you can just search for similar images on bing! at the end you'll figure that this is a BAUDOT Code! decode your binary here (https://www.boxentriq.com/code-breaking/baudot-code) and you got it!
+###### Flag : JUST{BAUDOTISGOOD}
 
