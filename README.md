@@ -119,3 +119,11 @@
 ## we are given a cipher text and it seems some rotation applied here! as we notice there is #13 at the end! and #rot word up in the problem name! so let's give it a try with rot13!
 ![Screenshot from 2019-10-07 09-52-13](https://user-images.githubusercontent.com/52065067/66317843-f4660f80-e922-11e9-97c6-c6a7f1f10c84.png)
 ###### Flag : JUST{the_answer_to_life_the_universe_and_everything_is_rot13}
+# Crypto: Phone (25 points) >
+# Description: 
+## JUST{6665553444777746665553}
+## Solution:
+## Keypad numbers! we have to decode this into words! i used this decoder: (http://www.aer.org/) deleting the redunduncy numbers and choosing the most sentence that make sense give us > "old is gold"
+###### Flag : JUST{oldisgold}
+
+
