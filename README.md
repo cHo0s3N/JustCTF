@@ -133,4 +133,10 @@
 ![hint](https://user-images.githubusercontent.com/52065067/66321104-c08de880-e928-11e9-98ac-ae525c0d8bdc.jpg)
 ## great! we have a sign here to lead us to which decoder we have to use! if you already have no idea what is this! you can just search for similar images on bing! at the end you'll figure that this is a BAUDOT Code! decode your binary here (https://www.boxentriq.com/code-breaking/baudot-code) and you got it!
 ###### Flag : JUST{BAUDOTISGOOD}
+# Crypto: Call (88 points) >
+# Description: 
+## Can you call this number ?
+## Solution:
+## it's a wav file! if we play it; we'll listen to someone trying to call a number! so we have to detect these numbers! sooo by searching i got this site! (http://dialabc.com/sound/detect/) upload the file and Find our DTMF Tones! we'll got these tones: "58877778222255555563322222255" great!!! one step to get our flag! using this decoder that we use it before on "phone Q" >  (http://www.aer.org/) ... you may check how it works up here (https://www.dcode.fr/phone-keypad-cipher) 
+###### Flag : JUST{CALLMECCK}
 
