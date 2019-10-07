@@ -106,12 +106,16 @@
 ![Screenshot from 2019-10-07 08-56-43](https://user-images.githubusercontent.com/52065067/66313558-3c813400-e91b-11e9-83b0-853078cec81a.png)
 ## and that's our bad boy!
 ###### Flag : JUST{school_is_fun}
-
-
 # Forensics: Empty (100 points) >
-## working on it###
-
-
+## Description:
+## I received empty image from my friend! Can you find the flag in blank ?
+## solution:
+## Empty.png! let's see if it is really empty or not! 
+ 
+ 
+ 
+ 
+ 
 # Crypto: The good rot (25 points) >
 # Description: 
 ## WHFG{gur_nafjre_gb_yvsr_gur_havirefr_naq_rirelguvat_vf_ebg13}
