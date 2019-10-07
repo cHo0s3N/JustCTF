@@ -100,7 +100,7 @@
 ## Description:
 ## There is missing student can you find him in Modern School Bus
 ## solution:
-## the hardest and the easiest problem i solved in this competition.. ONE SOLVE!!! ; and i still wondering why! (((: 
-## we are given a png image! 
+## the hardest and the easiest problem i solved in this competition.. it got ONE SOLVE!!! ; and i still wondering why! (((: 
+## we are given a png image! what to do with a png?! a lot of things! firstly i tried stegonagraphy tools! and i got nothing! no interesting data in strings ! and there is no any hidden files using binwalk! i checked the chunks and there size! and everything just work fine!!!! so i ended with a close road!!
 
 
