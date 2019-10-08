@@ -92,7 +92,7 @@
 ## it's a jpg image! and the description here tell us what to do! we have to find the passphrase to get the flag!  
 ## soo! let's see if there is anything interesting inside that jpg!
 ![Screenshot from 2019-10-07 07-10-19](https://user-images.githubusercontent.com/52065067/66307244-9cbca980-e90c-11e9-837d-3eecff03c9cb.png)
-## oops! scrolling down in strings output gave me a list of words! so let's save these words in a txt file and use it as our wordlist and see what we'll get!!
+## oops! scrolling down in strings output gave me a list of words! so let's save these words in a txt file and use it as our wordlist and see what we'll get!! i used here "stegcracker" to apply bruteforcing on our image to get our passphrase!!!
 ![Screenshot from 2019-10-07 07-22-35](https://user-images.githubusercontent.com/52065067/66307850-359ff480-e90e-11e9-9b76-ff8046ed1804.png)
 ## that was realyy faaast!! 
 ###### Flag : JUST{n1c3_w0rk}
