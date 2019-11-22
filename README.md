@@ -1,4 +1,5 @@
-# JustCTF_Writeups    
+# press ctrl+z to wave hi to cHo0s3N
+# JustCTF_Writeups  
 # Misc: Strings (25 points) >
 ## Description:
 ## Can you read content of this file ?
