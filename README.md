@@ -1,4 +1,3 @@
-# press ctrl+z to wave hi to cHo0s3N
 # JustCTF_Writeups  
 # Misc: Strings (25 points) >
 ## Description:
